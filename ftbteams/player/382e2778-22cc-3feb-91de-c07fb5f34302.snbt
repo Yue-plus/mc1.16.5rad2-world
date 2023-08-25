@@ -1,0 +1,16 @@
+{
+	id: "382e2778-22cc-3feb-91de-c07fb5f34302"
+	type: "player"
+	player_name: "Yue_plus"
+	ranks: {
+		382e2778-22cc-3feb-91de-c07fb5f34302: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Yue_plus"
+		"ftbteams:color": "#59FFF5"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
