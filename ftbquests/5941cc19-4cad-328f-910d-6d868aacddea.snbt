@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "5941cc194cad328f910d6d868aacddea"
+	name: "Shiro_MilkTea"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: {
+		3A2170CA50CDF17C: 1
+	}
+	started: {
+		3A2170CA50CDF17C: 1692977978266L
+		1E11739B02616720: 1692977978266L
+		0000000000000001: 1692977978266L
+		5D04D87B47AD5904: 1692977978266L
+	}
+	completed: {
+		3A2170CA50CDF17C: 1692977978266L
+		5D04D87B47AD5904: 1692977978266L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

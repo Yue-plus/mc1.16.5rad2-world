@@ -1,0 +1,16 @@
+{
+	id: "5941cc19-4cad-328f-910d-6d868aacddea"
+	type: "player"
+	player_name: "Shiro_MilkTea"
+	ranks: {
+		5941cc19-4cad-328f-910d-6d868aacddea: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Shiro_MilkTea"
+		"ftbteams:color": "#59FFDE"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

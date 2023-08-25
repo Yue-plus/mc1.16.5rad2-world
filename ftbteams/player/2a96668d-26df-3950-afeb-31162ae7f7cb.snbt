@@ -1,0 +1,18 @@
+{
+	id: "2a96668d-26df-3950-afeb-31162ae7f7cb"
+	type: "player"
+	player_name: "MinatoKana"
+	ranks: {
+		2a96668d-26df-3950-afeb-31162ae7f7cb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MinatoKana"
+		"ftbteams:color": "#5967FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: {
+		Money: 22L
+	}
+}
