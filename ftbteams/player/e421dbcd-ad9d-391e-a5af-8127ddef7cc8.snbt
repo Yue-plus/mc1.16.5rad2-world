@@ -1,0 +1,16 @@
+{
+	id: "e421dbcd-ad9d-391e-a5af-8127ddef7cc8"
+	type: "player"
+	player_name: "sxftt"
+	ranks: {
+		e421dbcd-ad9d-391e-a5af-8127ddef7cc8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sxftt"
+		"ftbteams:color": "#FF595E"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
