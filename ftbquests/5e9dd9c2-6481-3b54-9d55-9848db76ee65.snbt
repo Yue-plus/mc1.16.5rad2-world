@@ -1,0 +1,23 @@
+{
+	version: 1
+	uuid: "5e9dd9c264813b549d559848db76ee65"
+	name: "Yue_996"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: {
+		3A2170CA50CDF17C: 1
+	}
+	started: {
+		3A2170CA50CDF17C: 1692930825196L
+		1E11739B02616720: 1692930825196L
+		0000000000000001: 1692930825196L
+		5D04D87B47AD5904: 1692930825196L
+	}
+	completed: {
+		3A2170CA50CDF17C: 1692930825196L
+		5D04D87B47AD5904: 1692930825196L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

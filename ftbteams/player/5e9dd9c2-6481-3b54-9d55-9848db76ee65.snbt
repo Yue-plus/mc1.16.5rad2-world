@@ -1,0 +1,16 @@
+{
+	id: "5e9dd9c2-6481-3b54-9d55-9848db76ee65"
+	type: "player"
+	player_name: "Yue_996"
+	ranks: {
+		5e9dd9c2-6481-3b54-9d55-9848db76ee65: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Yue_996"
+		"ftbteams:color": "#7059FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}
