@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "usefulhats:recipes/combat/straw_hat": {
+    "criteria": {
+      "has_wheat": "2023-08-26 16:43:25 +0800"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/umbrella_tree_stripped_bark": {
     "criteria": {
       "has_the_recipe": "2023-08-26 01:56:43 +0800"
@@ -5725,6 +5731,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2023-08-26 16:43:27 +0800"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2023-08-26 01:56:43 +0800"
@@ -7123,6 +7135,12 @@
     },
     "done": true
   },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2023-08-26 16:43:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2023-08-26 01:56:43 +0800"
@@ -7489,6 +7507,12 @@
       "has_the_recipe": "2023-08-26 01:56:47 +0800"
     },
     "done": true
+  },
+  "simplefarming:crops": {
+    "criteria": {
+      "zucchini": "2023-08-26 16:43:34 +0800"
+    },
+    "done": false
   },
   "blue_skies:recipes/blue_skies_blocks/charoite_block": {
     "criteria": {
@@ -24413,6 +24437,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_the_recipe": "2023-08-26 01:56:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-08-26 16:43:27 +0800"
     },
     "done": true
   },
