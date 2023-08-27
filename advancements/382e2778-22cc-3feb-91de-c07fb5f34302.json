@@ -24400,7 +24400,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2023-08-26 01:56:48 +0800"
+      "minecraft:taiga": "2023-08-26 01:56:48 +0800",
+      "minecraft:river": "2023-08-27 10:01:39 +0800"
     },
     "done": false
   },
@@ -24991,6 +24992,12 @@
       "has_the_recipe": "2023-08-26 01:56:46 +0800"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2023-08-27 10:03:07 +0800"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
